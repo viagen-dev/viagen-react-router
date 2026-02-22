@@ -17,7 +17,7 @@ export function Welcome() {
         <p className="text-lg text-zinc-500 dark:text-zinc-400">
           Claude in your dev server.
         </p>
-        <div className="w-28 opacity-40 mt-4">
+        <div className="w-32 opacity-40 mt-4">
           <img
             src={logoLight}
             alt="React Router"
