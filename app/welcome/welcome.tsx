@@ -9,9 +9,9 @@ export function Welcome() {
         <img
           src={viagenIcon}
           alt="viagen"
-          className="w-18 h-18 rounded-2xl"
+          className="w-14 h-14 rounded-2xl"
         />
-        <h1 className="text-6xl font-bold tracking-tight font-mono">
+        <h1 className="text-5xl font-bold tracking-tight font-mono">
           boa viagen
         </h1>
         <p className="text-lg text-zinc-500 dark:text-zinc-400">
